@@ -35,4 +35,13 @@ html {
     font-size: 14px;
 }
 
+* {
+    font-family: var(--sans-font);
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
 /* text styles and some other components */
