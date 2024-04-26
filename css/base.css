@@ -1,0 +1,38 @@
+/* variables, colors anad font famailes */
+:root {
+    --primary-color: #AF9FFF;
+    --primary-color: #d5ccff;
+    --primary-color: #7f66ff;
+
+    --secondary-color: #025834;
+    --secondary-color: #04c876;
+    --secondary-color: #01321e;
+
+    --nuetral-color: #e0e0e0;
+    --background-color: #1b1b1b;
+    --surface-color: #252525;
+
+    --lobster-font: 'Lobster', sans-serif;
+    --sans-font: 'DM Sans', sans-serif;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* general style= styles that can be applied to all the elements */
+html {
+    background-color: var(--background-color);
+    font-size: 14px;
+}
+
+/* text styles and some other components */
