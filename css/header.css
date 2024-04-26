@@ -1,0 +1,21 @@
+header {
+    background-color: var(--surface-color);
+    height: 16px;
+    position: sticky;
+    top: 0px;
+}
+
+/* left side */
+.logo{
+    background-color: red;
+}
+
+
+
+
+
+/* right side */
+nav{
+    background-color: royalblue;
+    display: flex;
+}
