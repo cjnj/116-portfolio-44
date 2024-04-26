@@ -16,7 +16,7 @@
     --sans-font: 'DM Sans', sans-serif;
 }
 
-.center {
+.center-row {
     display: flex;
     justify-content: center;
     align-items: center;
