@@ -28,7 +28,7 @@ nav{
 }
 
 .nav-link a {
-    color: var(--nuetrak-color);
+    color: var(--nuetral-color);
     font-size: 1rem;
     text-transform: uppercase;
     margin: 2%;
@@ -38,5 +38,5 @@ nav{
 }
 
 .nav-link a{
-    border-bottom: solid 0.1rem var(--primary-color); ;
+    border-bottom: solid 0.1rem var(--primary-color); 
 }
