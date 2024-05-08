@@ -1,12 +1,12 @@
 /* variables, colors anad font famailes */
 :root {
     --primary-color: #AF9FFF;
-    --primary-color: #d5ccff;
-    --primary-color: #7f66ff;
+    --primary-color-100: #d5ccff;
+    --primary-color-300: #7f66ff;
 
     --secondary-color: #025834;
-    --secondary-color: #04c876;
-    --secondary-color: #01321E;
+    --secondary-color-600: #04c876;
+    --secondary-color-900: #01321E;
 
     --nuetral-color: #e0e0e0;
     --background-color: #1b1b1b;

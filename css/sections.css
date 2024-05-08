@@ -75,3 +75,12 @@ a p:nth-child(4){
     margin-left: 0px;
     margin-right: 0px;
 }
+
+.projects-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    gap: 4rem;
+    margin-top: 2rem;
+}
